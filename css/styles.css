@@ -1,0 +1,280 @@
+body {
+  color: #fff;
+
+  font-family: 'Raleway', sans-serif;
+
+}
+
+
+
+.isa-photo {
+  width: 20%;
+  position:relative;
+  left:350px;
+  padding-top: 30px;
+
+
+
+
+}
+
+.container{
+  position: absolute;
+  padding-top:  30px;
+  padding-bottom: 0;
+  padding-left: 300px;
+  padding-right: 300px;
+  width: 97%;
+
+
+
+}
+
+
+
+
+
+
+
+.h2-vertical{
+  font-weight: 400;
+  color: black;
+  font-size: 25px;
+  position: relative;
+  left:175px;
+  bottom: 217px;
+
+    border-left: 1px solid gray;
+              height: 270px;
+
+}
+
+
+.pbold{
+  font-weight: bold;
+  color: black;
+  position: relative;
+  left:187px;
+bottom: 500px;
+
+}
+
+.h4-ls{
+  position: relative;
+  color:#11999E;
+
+  font-weight: bold;
+  left:187px;
+  bottom: 500px;
+
+}
+
+hr{
+
+
+position: relative;
+    border-top: 1px solid gray;
+    margin-bottom: 0;
+    padding-bottom: 0;
+
+}
+
+
+
+.h2-blue-name{
+  font-weight: 300;
+  color: #66BFBF;
+  font-size: 25px;
+}
+
+.h2-blue{
+
+  font-weight: 300;
+  color: #66BFBF;
+  font-size: 15px;
+  font-weight: bold;
+}
+.h2-black{
+
+  font-weight: 300;
+  color: black;
+  font-size: 25px;
+}
+.h2-work{
+
+  font-weight: 400;
+  color: black;
+  font-size: 25px;
+
+
+}
+
+.h2-work2{
+  position: relative;
+  margin-top: 0;
+  font-weight: 400;
+  color: black;
+  font-size: 25px;
+}
+
+.h4-blue{
+  color:#11999E;
+  margin-bottom: 5px;
+  font-size: 19px;
+  font-weight: bold;
+}
+
+.h2-work-middle{
+  font-weight: 400;
+  color: black;
+  margin-bottom: 35px;
+  margin-top: 35px;
+  font-size: 25px;
+}
+
+
+
+.h4-black{
+  font-weight: bold;
+  color: black;
+  margin-top: 5px;
+  font-size: 19px;
+}
+
+.h4-blue-mid{
+  color:#11999E;
+  margin-bottom: 2px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.h2-work-mid{
+  font-weight: 400;
+  color: black;
+  margin-bottom: 40px;
+}
+
+.h4-blue-middle{
+  color:#11999E;
+  margin-bottom: 2px;
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.description-mid{
+  margin-top: 2px;
+  margin-bottom: 5px;
+  color: #8f8f8f;
+
+}
+
+
+.description{
+
+  color: #8f8f8f;
+}
+.info {
+
+  color: #8f8f8f;
+  margin-bottom: 50px;
+
+}
+
+.other-skills{
+  width: 280%;
+}
+
+.contacts {
+  width: 100%;
+}
+
+.intro{
+  position: relative;
+  left:400px;
+  bottom:1400px;
+  width: 100%;
+}
+
+.work-experience{
+position: relative;
+left: 400px;
+bottom:1360px;
+}
+
+
+
+@media (max-width:1028px) {
+.container{
+  width:297px;
+  text-align: center;
+  padding-left: 75px;
+  padding-right: 10px;
+
+}
+.other-skills{
+  width:197px;
+
+}
+
+.contacts {
+  width:197px;
+  top: 0;
+  left: 0;
+}
+.intro{
+  position: relative;
+  width:197px;
+  top: 0;
+  left: 0;
+
+}
+
+.work-experience{
+position: relative;
+width:197px;
+top:0;
+left: 0;
+
+
+}
+.isa-photo {
+  width: 147px;
+  position:relative;
+  left: 97px;
+
+
+
+
+}
+
+.h2-vertical{
+
+  position: relative;
+
+width:197px;
+top: 0;
+left: 0;
+border-left: 0;
+height: 0;
+
+}
+
+
+.pbold{
+
+  position: relative;
+  width:197px;
+  top: 0;
+  left: 0;
+}
+
+.h4-ls{
+  position: relative;
+
+
+  font-weight: bold;
+  width:197px;
+  top: 0;
+  left: 0;
+}
+}
